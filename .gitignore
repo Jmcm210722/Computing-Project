@@ -1,0 +1,16 @@
+# Python cache/bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local env files
+.env
+.env.*
+
+# IDE/system
+.vscode/
+.DS_Store
