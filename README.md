@@ -1,15 +1,15 @@
-# 💪 BodyBalance
+#  BodyBalance
 
 A modern React-based workout tracking application that connects to a Flask backend API. Track your exercises, sets, reps, and workout history with an intuitive interface.
 
 ## Features
 
-- 🏋️ **Start Workouts** - Create new workouts by selecting muscle groups
-- 📝 **Exercise Library** - Browse 44+ pre-loaded exercises or create custom ones
-- ⚡ **Real-time Set Logging** - Log sets with weight and reps as you go
-- 📊 **Workout History** - View completed workouts with detailed statistics
-- 💾 **Auto-save** - All data is persisted to your backend
-- 🎯 **User Tracking** - Each user has their own workout data
+-  **Start Workouts** - Create new workouts by selecting muscle groups
+-  **Exercise Library** - Browse 44+ pre-loaded exercises or create custom ones
+-  **Real-time Set Logging** - Log sets with weight and reps as you go
+-  **Workout History** - View completed workouts with detailed statistics
+-  **Auto-save** - All data is persisted to your backend
+-  **User Tracking** - Each user has their own workout data
 
 ## Prerequisites
 
